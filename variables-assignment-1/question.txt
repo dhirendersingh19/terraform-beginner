@@ -1,0 +1,9 @@
+Create provider code block and ec2 code block
+
+Create varuibales for region, instance_id, ami_id, and tags
+
+Set defaults for varibales in varibale.tf
+
+Run terrafrom init,
+
+Run terraform plan

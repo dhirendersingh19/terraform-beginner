@@ -1,0 +1,12 @@
+AWS console create s3 bucket
+
+create provider block
+
+create module code for the s3 bucket 
+
+terraform import (resource addressing)
+
+terraform plan
+
+terraform destroy
+

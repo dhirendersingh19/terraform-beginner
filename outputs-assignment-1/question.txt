@@ -1,0 +1,13 @@
+Update your variables.tf file with region and image_id
+
+Create outputs for both instances in the main.tf file:
+
+instance ID
+
+ARN
+
+Run terraform init
+
+Run terrafrom apply
+
+Run terraform destroy

@@ -1,0 +1,9 @@
+Create resource code
+
+EC2 instance with Amazon Linux AMI
+
+attach addition data drive
+
+create and attach a cloud watch metric alarm to monitor CPU
+
+create provider and module block

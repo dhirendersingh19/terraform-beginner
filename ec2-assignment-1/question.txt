@@ -1,0 +1,19 @@
+Create provider configuration
+
+Create EC2 resource block
+
+Create AMI argument and add an AMI for Windows Server 2019
+
+Create instance type argument and set as t2.micro
+
+Run terraform init
+
+Run terraform validate
+
+Run terraform plan
+
+Run terraform apply
+
+Verify resource is created in your account
+
+Run terraform destroy

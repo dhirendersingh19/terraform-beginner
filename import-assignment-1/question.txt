@@ -1,0 +1,9 @@
+Create S3 bucket
+
+Create provider block
+
+Create config code for s3 bucket
+
+perform terraform import
+
+terraform destroy

@@ -1,0 +1,13 @@
+Craete provider configyartion
+
+Create EC2 resource block setting AMI and instance type
+
+Create 3 tags for your instance, including a Nametag
+
+Run terraform init
+
+Run terraform apply
+
+Verify resource is created in your account and has tags
+
+Run terraform destroy
