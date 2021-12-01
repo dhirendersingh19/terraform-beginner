@@ -6,3 +6,4 @@
 #### 4. [Mastering the Terraform CLI](https://docs.google.com/presentation/d/1wqArfWI4vkyeYEHORUL8DXwZEcaa-d_NjyPjW-l6RH0/edit?usp=sharing)
 #### 5. [The Terraform workflow and Execution plan](https://docs.google.com/presentation/d/1iucahhFNKRK2UH-_tiBMLSd_gbUoWq6B-3zPwoWwdcs/edit?usp=sharing)
 #### 6. [Managing and Optimizing your Terraform configuration](https://docs.google.com/presentation/d/1nWDGq8nHQKir6gwEmwCVngELyRhkQjSEpLiZuzF2NsY/edit?usp=sharing)
+#### 7. [Understanding and Using terraform Modules](https://docs.google.com/presentation/d/1bLqeGidr5LIXhKL-At-GuJE0KnlRrt0Chik5dfX21_8/edit?usp=sharing)
